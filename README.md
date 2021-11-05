@@ -10,7 +10,7 @@
 ---
 #### You will find find me:
 
-[![GitHub](img/git.svg)](https://github.com/GosuJmen) [![Telegram](img/telega.png)](https://t.me/GosuJmen)
+[![GitHub](img/git.png)](https://github.com/GosuJmen) [![Telegram](img/telega.png)](https://t.me/GosuJmen)
 
 > **Yes, I leave a link to a git in a git!**
 >> Evgeniy Zhernavoi
